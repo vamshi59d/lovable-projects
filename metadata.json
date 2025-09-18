@@ -1,0 +1,5 @@
+{
+  "name": "Copy of India Groundwater Watch",
+  "description": "An application to visualize and analyze real-time groundwater level data from Digital Water Level Recorder (DWLR) stations across India, aiding researchers, planners, and policymakers in sustainable water management.",
+  "requestFramePermissions": []
+}
